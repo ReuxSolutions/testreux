@@ -1,6 +1,8 @@
 {
     "appSecret": "9dc85fd590024aabb388d679b8911e3f",
-    "pageAccessToken": "EAADMiSV6j04BAC5iXKp1uUaPwokWBIe3jfuDR7vbLu9JrdeZCzRlnWbnqXQMzpowkWiWzgpdCySYv0nC5kQklvAa1uezUFWnxpiK5kCwxR7MGpHPBZCcUxOZCnSvrTZBwGEcgzWm1KDNEPEyzWFUw1MZBLnZAgFmZB7VR109VLCkgZDZD",
+    "pageAccessToken": "EAADMiSV6j04BAOICo8ZCxZBD9iAJKIcpIRHG7USeTwXfymc7rjbriNqa7gMaWaQnoURAZAkZARITRR1b0GGPU1wRtaEaOFAEM55mOWZAgcDg6ptQLn4NTCA8JSZAmZBwnHn82DAZCTemRWzNAKdMRoUhWRHEoMb1K42j2i8IQHH31wZDZD",
     "validationToken": "my_own_token_reux",
     "serverURL": "https://reuxbot.azurewebsites.net"
 }
+
+
